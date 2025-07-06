@@ -1,0 +1,52 @@
+/*Author: Guillermo Morales 
+ *Date: 2025-07-5 */
+
+@charset "utf-8";
+
+html{
+    background-color: hsl(204, 51%, 94%)
+}
+nav{
+    font-family: Trebuchet MS, sans-serif;
+    background-color: hsl(210, 50%, 20%);
+    padding: 1em;
+    
+}
+nav a{
+    color:antiquewhite;
+     margin-right: 10px;
+}
+nav a:hover {
+  color: hsl(210, 100%, 70%);
+}
+h1{
+    font-family: Helvetica, sans-serif;
+    font-size: 2.1em;
+    
+}
+#intro{
+    font-family: Helvetica, sans-serif; 
+    font-size:1.1em; 
+}
+
+#free_t{
+    font-family: Helvetica, sans-serif; 
+    font-size: 1.1em
+}
+#r_webs{
+    font-family: Helvetica, sans-serif;
+    font-size:.9em
+}
+
+#wild:hover {
+    transform: scale(1.1);
+    color: rgb( 231, 76, 60)
+}
+
+
+
+
+
+
+
+
